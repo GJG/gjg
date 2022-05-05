@@ -1,5 +1,9 @@
 ####  👋Áfangarnir sem ég kenni í Upplýsingatækniskólanum eru ma:
 
+####  ✨ HÖNN2UX05BU
+Notuð eru margmiðlunar- og hreyfimyndaforrit til að útbúa grafískt margmiðlunarefni. Farið er í
+helstu atriði sem snúa að hugmyndavinnu, teikningu og vinnslu á grafísku efni fyrir margmiðlun. 
+
 ####  ✨ VEFÞ1VG05AU
 VEFÞ1 er grunnáfangi í vefsíðugerð og mikilvæg undirstaða undir vefforritun. Farið er í grunnatriði viðmótshönnunar og áhersla er lögð á HTML ritun, CSS stílsíður og myndvinnslu. Hver þessara þátta er tekinn sérstaklega fyrir og sýnt er hvernig samspil þeirra stuðlar að vandaðri framsetningu.
 
@@ -8,12 +12,13 @@ Vefhönnun. Farið er í að hanna vef sem er sveigjanlegur (Responsive Web Desi
 
 ####  ✨ VEFÞ2VF05BU
 Vefforritun. Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/biðlara uppbyggingu vefsíðna, samskipti þeirra og hlutverk hvers hluta. Nemendur vinna að smíði vefja með miðlaramáli. Lögð er áhersla á málfræði og endurnýtni á kóða í gerð vefja.
+
 <!--
 ### Hi there
 
 
 - 🔭 Í vinnslu ...
-<!--
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
