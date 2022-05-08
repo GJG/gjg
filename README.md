@@ -2,7 +2,7 @@
 
 ####  ✨ HÖNN2UX05BU
 Notuð eru margmiðlunar- og hreyfimyndaforrit til að útbúa grafískt margmiðlunarefni. Farið er í
-helstu atriði sem snúa að hugmyndavinnu, teikningu og vinnslu á grafísku efni fyrir margmiðlun. 
+helstu atriði sem snúa að vinnslu á mynd-, hljóð- og grafísku efni fyrir vef, sjónvarp og útvarp. 
 
 ####  ✨ VEFÞ1VG05AU
 VEFÞ1 er grunnáfangi í vefsíðugerð og mikilvæg undirstaða undir vefforritun. Farið er í grunnatriði viðmótshönnunar og áhersla er lögð á HTML ritun, CSS stílsíður og myndvinnslu. Hver þessara þátta er tekinn sérstaklega fyrir og sýnt er hvernig samspil þeirra stuðlar að vandaðri framsetningu.
