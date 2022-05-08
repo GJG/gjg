@@ -1,4 +1,4 @@
-####  👋Guðmundur heiti ég og kenni á fljölmiðla- og tölvubraut Upplýsingatækniskólans. Áfangarnir sem ég kenni í Upplýsingatækniskólanum eru meðal annars:
+####  👋 Guðmundur heiti ég og kenni á fljölmiðla- og tölvubraut Upplýsingatækniskólans. Áfangarnir sem ég kenni í Upplýsingatækniskólanum eru meðal annars:
 
 ####  ✨ HÖNN2UX05BU
 Notuð eru margmiðlunar- og hreyfimyndaforrit til að útbúa grafískt margmiðlunarefni. Farið er í
