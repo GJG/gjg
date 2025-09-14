@@ -1,6 +1,6 @@
 ####  👋 Guðmundur heiti ég og kenni á fjölmiðla- og tölvubraut Upplýsingatækniskólans. Áfangarnir sem ég kenni í Upplýsingatækniskólanum eru meðal annars:
 
-####  ✨ VEFÞ1VG05AU
+####  ✨ [VEFÞ1VG05AU](https://github.com/vefgrunnur)
 
 VEFÞ1 er grunnáfangi í vefsíðugerð og mikilvæg undirstaða undir vefforritun. Farið er í grunnatriði viðmótshönnunar og áhersla er lögð á HTML ritun, CSS stílsíður og myndvinnslu. Hver þessara þátta er tekinn sérstaklega fyrir og sýnt er hvernig samspil þeirra stuðlar að vandaðri framsetningu.
 
