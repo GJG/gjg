@@ -1,6 +1,6 @@
 ####  👋 Guðmundur heiti ég og kenni á fjölmiðla- og tölvubraut Upplýsingatækniskólans. Áfangarnir sem ég kenni í Upplýsingatækniskólanum eru meðal annars:
 
-####  ✨ HÖNN2UX05BU
+####  ✨ GRAF2UX05BU
 
 Notuð eru margmiðlunar- og hreyfimyndaforrit til að útbúa grafískt margmiðlunarefni. Farið er í
 helstu atriði sem snúa að vinnslu á mynd-, hljóð- og grafísku efni fyrir vef, sjónvarp og útvarp. 
